@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlhajiB3
-- 👀 I’m interested in Technical Sales engineering especially selling cloud technologies 
+- 👀 I’m interested in Technical Sales engineering especially creating solutions using technology to business challenges.   
 - 🌱 I’m currently learning automation tools like Terraform
 - 💞️ I’m looking to collaborate on special cloud projects 
 - 📫 How to reach me is through Linkedin at https://www.linkedin.com/in/alhaji-bah-3719b9253/
