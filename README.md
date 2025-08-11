@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlhajiB3
 - 👀 I’m passionate about Cloud DevOps engineering and leveraging technology to solve complex business challenges.
-- 🌱 I’m currently expanding my skills in automation and infrastructure management with hands-on learning in the Level Up in Tech program. This 37-week educational program has given me in-depth experience in AWS, Linux, Python, Containers, and Terraform.
+- 🌱 I’m currently expanding my skills in automation and infrastructure management along with AWS, Linux, Python, Containers, and Terraform.
 - 💡 I’ve been learning how to adapt quickly to various cloud services, from VPC configurations to using tools like AWS Lambda for automation.
 - 💞️ I’m looking to collaborate on innovative cloud projects, especially those that involve cloud infrastructure, automation, and DevOps practices.
 - 📫 You can reach me on LinkedIn at Alhaji Bah https://www.linkedin.com/in/alhaji-bah/
